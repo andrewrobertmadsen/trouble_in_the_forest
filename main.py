@@ -4,7 +4,6 @@
 import pprint
 import pandas as pd
 
-
 '''
 with open("appt_data.csv", "r") as f:
     reader = csv.DictReader(f)
